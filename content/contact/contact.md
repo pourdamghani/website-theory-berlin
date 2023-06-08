@@ -33,6 +33,6 @@ Researchers at Dutch universities and knowledge institutes follow the [Netherlan
 The Code of Conduct has been adopted by all universities and has been in force since 1 October 2018.
 
 ## Contact
-This website was initiated by [Arash Pourdamghani](/author/pourdamghani) in June 2023.
+This website was initiated by Arash Pourdamghani in June 2023.
 ## Mailing List
 [Sign up for our mailing list](https://list.uva.nl/mailman/listinfo/theory.amsterdam) to receive (infrequent) updates about open positions and events of importance to the Amsterdam TCS community.
