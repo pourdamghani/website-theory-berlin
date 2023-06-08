@@ -1,5 +1,5 @@
 ---
-title: László Kozma
+title: Laszlo Kozma
 lastname: Kozma
 role: Professor
 interests:
