@@ -12,7 +12,7 @@ social:
     link: https://rybicki.github.io/
   - icon: envelope
     icon_pack: fas
-    link: joel.rybicki@hu-berlin.de
+    link: mailto:joel.rybicki@hu-berlin.de
 
 organizations:
   - name: HU Berlin
