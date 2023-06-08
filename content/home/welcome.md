@@ -7,7 +7,7 @@ widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
-  TCS in Amsterdam
+  TCS in Berlin
 hero_media: theory.amsterdam.3.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -19,4 +19,4 @@ design:
 
 <br>
 
-This website provides an overview of the academic research in theoretical computer science (TCS) carried out at various institutions in Amsterdam.
+This website provides an overview of the academic research in theoretical computer science (TCS) carried out at various institutions in Berlin.
