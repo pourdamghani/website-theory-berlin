@@ -21,7 +21,7 @@ organizations:
 email: ""
 superuser: false
 user_groups:
-	- Permanent Members
+  - Permanent Members
 highlight_name: false
 ---
 
