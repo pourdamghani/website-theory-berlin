@@ -13,24 +13,24 @@ font_size: L
 # SEO
 site_type: 'ResearchOrganization'
 local_business_type: ''
-org_name: 'Theoretical Computer Science (TCS) in Amsterdam'
-description: 'Overview website of academic research in theoretical computer science (TCS) carried out in Amsterdam, The Netherlands.'
+org_name: 'Theoretical Computer Science (TCS) in Berlin'
+description: 'Overview website of academic research in theoretical computer science (TCS) carried out in Berlin, Germany.'
 twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: c.schaffner@uva.nl
+email: pourdamghani
 #phone: 888 888 88 88
 address:
   street: Science Park
-  city: Amsterdam
-  region: NH
-  postcode: '1090 GB'
-  country: Netherlands
-  country_code: NL
+  city: Berlin
+  region: 
+  postcode: 
+  country: Germany
+  country_code: DE
 coordinates:
-  latitude: '52.3548'
-  longitude: '4.9545'
+  latitude: 
+  longitude: 
 #directions: Enter LAB42
 #office_hours:
 #  - 'Monday 10:00 to 13:00'
